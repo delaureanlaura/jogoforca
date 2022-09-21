@@ -1,0 +1,14 @@
+lista.txt
+banana
+caju
+morango
+abacate
+uva
+kiwi
+ameixa
+maça
+goiaba
+uva
+abacaxi
+melancia
+melão
